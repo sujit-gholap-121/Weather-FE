@@ -1,0 +1,24 @@
+{
+    "temperatureTable": [
+        {
+            "value": 0,
+            "label": "Subzero"
+        },
+        {
+            "value": 10,
+            "label": "Very Cold"
+        },
+        {
+            "value": 20,
+            "label": "Cold"
+        },
+        {
+            "value": 30,
+            "label": "Warm"
+        },
+        {
+            "value": 40,
+            "label": "Hot"
+        }
+    ]
+}

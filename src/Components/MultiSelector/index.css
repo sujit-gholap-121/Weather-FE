@@ -1,0 +1,5 @@
+.select-width {
+    width: max-content;
+    min-width: 50px;
+    padding: 5px 10px
+}

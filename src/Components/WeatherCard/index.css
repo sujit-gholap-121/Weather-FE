@@ -1,0 +1,20 @@
+.cardStyle {
+    margin-top: 30px;
+    padding: "10px";
+    border-radius: 5px;
+    border: 2px solid black;
+    width: 200px;
+    height: 350px;
+    text-align: center;
+    padding: 20px 10px;
+    box-shadow: 5px 5px 5px lightgrey;
+}
+
+.imageStyle {
+    width: 140px;
+    height: fit-content
+}
+
+.weather-label {
+    align-self: flex-end;
+}

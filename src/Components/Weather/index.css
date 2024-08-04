@@ -1,0 +1,20 @@
+.rootDivStyle {
+    width: fit-content;
+    display: flex;
+    padding-left: 40px;
+    align-items: flex-start;
+    justify-content: center;
+    flex-wrap: wrap;
+    column-gap: 20px;
+}
+
+.root-wrapper {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
+
+.search-input {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
